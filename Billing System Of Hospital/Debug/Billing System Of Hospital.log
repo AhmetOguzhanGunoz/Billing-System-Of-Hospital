@@ -1,0 +1,11 @@
+﻿  billTypeImp.cpp
+d:\p\prototype-of-billing-system-of-hospital-master-4\prototype-of-billing-system-of-hospital-master\billing system of hospital\billtypeimp.cpp(12): warning C4101: 'RoomCharges': yerel değişken başvurusu kaldırıldı
+d:\p\prototype-of-billing-system-of-hospital-master-4\prototype-of-billing-system-of-hospital-master\billing system of hospital\billtypeimp.cpp(13): warning C4101: 'patientID': yerel değişken başvurusu kaldırıldı
+d:\p\prototype-of-billing-system-of-hospital-master-4\prototype-of-billing-system-of-hospital-master\billing system of hospital\billtypeimp.cpp(10): warning C4101: 'PharmacyCharges': yerel değişken başvurusu kaldırıldı
+d:\p\prototype-of-billing-system-of-hospital-master-4\prototype-of-billing-system-of-hospital-master\billing system of hospital\billtypeimp.cpp(11): warning C4101: 'DoctorsFees': yerel değişken başvurusu kaldırıldı
+d:\p\prototype-of-billing-system-of-hospital-master-4\prototype-of-billing-system-of-hospital-master\billing system of hospital\billtypeimp.cpp(21): warning C4244: '=': 'float' - 'int' dönüşümü; veri kaybı olabilir
+d:\p\prototype-of-billing-system-of-hospital-master-4\prototype-of-billing-system-of-hospital-master\billing system of hospital\billtypeimp.cpp(35): warning C4244: 'return': 'const float' - 'int' dönüşümü; veri kaybı olabilir
+d:\p\prototype-of-billing-system-of-hospital-master-4\prototype-of-billing-system-of-hospital-master\billing system of hospital\billtypeimp.cpp(40): warning C4244: 'return': 'const float' - 'int' dönüşümü; veri kaybı olabilir
+d:\p\prototype-of-billing-system-of-hospital-master-4\prototype-of-billing-system-of-hospital-master\billing system of hospital\billtypeimp.cpp(45): warning C4244: 'return': 'const float' - 'int' dönüşümü; veri kaybı olabilir
+  Billing System Of Hospital.vcxproj -> D:\P\Prototype-of-Billing-System-Of-Hospital-master-4\Prototype-of-Billing-System-Of-Hospital-master\Debug\Billing System Of Hospital.exe
+  Billing System Of Hospital.vcxproj -> D:\P\Prototype-of-Billing-System-Of-Hospital-master-4\Prototype-of-Billing-System-Of-Hospital-master\Debug\Billing System Of Hospital.pdb (Full PDB)
